@@ -1,0 +1,15 @@
+RID,Age,Income,Student,Credit_rating,class:buys_comp
+1,Y,High,No,Fair,No
+2,Y,High,No,Excellent,No
+3,M,High,No,Fair,Yes
+4,S,Medium,No,Fair,Yes
+5,S,Low,Yes,Fair,Yes
+6,S,Low,Yes,Excellent,No
+7,M,Low,Yes,Excellent,Yes
+8,Y,Medium,No,Fair,No
+9,Y,Low,Yes,Fair,Yes
+10,S,Medium,Yes,Fair,Yes
+11,Y,Medium,Yes,Excellent,Yes
+12,M,Medium,No,Excellent,Yes
+13,M,High,Yes,Fair,Yes
+14,S,Medium,No,Excellent,No
